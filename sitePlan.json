@@ -1,0 +1,49 @@
+{
+  "businessName": "Chukwuemeka Electrical/Electronics & Emmy Best Communications",
+  "industry": "Electronics Manufacturing & Telecommunications",
+  "tone": "professional and trustworthy",
+  "tagline": "Powering Obubra's Future with Quality Electronics and Reliable Communications",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Chukwuemeka Electrical/Electronics & Emmy Best Communications - Your trusted partner for quality electronics manufacturing and telecommunications solutions in Obubra. We deliver excellence in every product and service, ensuring your electrical and communication needs are met with precision and reliability.",
+      "imagePrompt": "Professional electronics workshop in Nigeria with modern electrical equipment, circuit boards, and telecommunications devices on display, bright natural lighting streaming through windows, workers in safety gear assembling quality electronics, vibrant blue and orange color scheme, sharp focus, photorealistic",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Located at No 1 Shop Opposite Apiapum Daily Market in Obubra, Chukwuemeka Electrical/Electronics & Emmy Best Communications is a leading manufacturer and supplier of electrical and electronic products in Cross River State. We specialize in producing high-quality electrical components, electronic devices, and providing comprehensive telecommunications solutions. Our commitment to excellence and customer satisfaction has made us the go-to destination for individuals, businesses, and contractors seeking reliable electrical and communication products. With years of experience in the industry, we understand the unique needs of Nigerian homes and businesses, delivering products that meet international standards while being perfectly suited to local requirements.",
+      "imagePrompt": "Modern Nigerian electronics manufacturing facility interior, rows of electrical components and telecommunications equipment neatly organized, skilled technicians working on assembly lines, quality control stations, bright industrial lighting, clean and organized workspace, professional atmosphere, photorealistic, high detail",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Products & Services",
+      "copy": "**Electrical Manufacturing**: We manufacture a comprehensive range of electrical products including switches, sockets, circuit breakers, cables, and wiring accessories designed for Nigerian voltage specifications and tropical conditions.\n\n**Electronics Production**: Our electronics division produces quality electronic components, power supplies, inverters, and backup systems tailored for reliable performance in Nigerian environments.\n\n**Telecommunications Solutions**: Emmy Best Communications provides cutting-edge telecommunication products, mobile accessories, networking equipment, and communication devices for personal and business use.\n\n**Installation & Maintenance**: Professional installation services for all electrical and electronic systems, plus ongoing maintenance support to ensure optimal performance.\n\n**Bulk Supply**: We serve contractors, businesses, and government projects with wholesale pricing and timely delivery of electrical and electronics materials.\n\n**Technical Consultation**: Expert advice on electrical system design, electronics selection, and telecommunications setup for homes, offices, and industrial facilities.",
+      "imagePrompt": "Collage showing various electrical products - modern switches and sockets, telecommunication devices, circuit breakers, cables, and electronic components displayed on clean white background, Nigerian electrical standards visible, professional product photography, bright even lighting, commercial quality, photorealistic",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Us",
+      "copy": "**Quality Assurance**: Every product we manufacture undergoes rigorous quality control to ensure it meets international standards and performs reliably in Nigerian conditions.\n\n**Local Expertise**: We understand the unique electrical and communication challenges in Nigeria and design our solutions accordingly.\n\n**Competitive Pricing**: As manufacturers, we offer factory-direct pricing that gives you the best value for your money.\n\n**Convenient Location**: Situated opposite Apiapum Daily Market, we're easy to find and accessible to customers throughout Obubra and surrounding areas.\n\n**Comprehensive Range**: From basic electrical fittings to advanced telecommunications equipment, we have everything you need under one roof.\n\n**After-Sales Support**: We stand behind our products with excellent customer service, technical support, and warranty coverage.",
+      "imagePrompt": "Happy Nigerian customers examining electrical products in a well-stocked electronics shop, friendly staff member demonstrating product features, organized product displays, satisfied customers holding purchases, warm welcoming atmosphere, natural lighting, authentic Nigerian business setting, photorealistic",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Visit us at our shop located at No 1 Shop Opposite Apiapum Daily Market in Obubra, Cross River State. Whether you need electrical components for your home renovation, electronics for your business, or telecommunications solutions, our experienced team is ready to assist you. We're open to serve you and provide expert guidance on all your electrical and electronics needs. Call or WhatsApp us today for inquiries, quotations, or to place your order. We look forward to being your trusted partner for quality electrical and electronics products in Obubra.",
+      "imagePrompt": "Exterior view of an electronics shop in Nigerian market setting, vibrant blue and white storefront, clearly visible signage, customers entering and leaving, Apiapum Daily Market visible in background, bustling commercial area, warm afternoon sunlight, welcoming entrance, photorealistic, authentic Nigerian streetscape",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 706 769 1423",
+    "email": "",
+    "address": "No 1 Shop Opposite Apiapum Daily Market, Obubra, Cross River State, Nigeria",
+    "whatsapp": "https://wa.me/2347067691423"
+  }
+}
